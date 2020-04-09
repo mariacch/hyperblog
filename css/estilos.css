@@ -41,3 +41,8 @@ body {
 #container h1 {
   font-size: 30px;
 }
+#footer {
+  background: #777777;
+  text-align: center;
+  padding: 0.5em;
+}
